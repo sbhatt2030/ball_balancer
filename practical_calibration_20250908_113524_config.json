@@ -1,0 +1,14 @@
+{
+  "scale_factor": 4.2981442470239e-05,
+  "beam_center_px": [
+    292,
+    355
+  ],
+  "beam_vector_px": [
+    454,
+    102
+  ],
+  "position_min_m": -0.0087367448734528,
+  "position_max_m": 0.00846628486975799,
+  "usable_range_m": 0.017203029743210793
+}

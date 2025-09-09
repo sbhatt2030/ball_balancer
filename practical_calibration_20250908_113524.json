@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-09-08T11:35:24.679763",
+  "beam_length_m": 0.02,
+  "ball_diameter_m": 0.00425,
+  "frame_size": [
+    640,
+    480
+  ],
+  "peg_points": [
+    [
+      65,
+      304
+    ],
+    [
+      519,
+      406
+    ]
+  ],
+  "beam_center_px": [
+    292,
+    355
+  ],
+  "beam_vector_px": [
+    454,
+    102
+  ],
+  "beam_length_px": 465.31709618280735,
+  "pixel_to_meter_ratio": 4.2981442470239e-05,
+  "ball_pixel_to_meter": 4.327621516252353e-05,
+  "ball_measurements": [
+    49.3137092590332,
+    48.49303436279297,
+    49.502811431884766
+  ],
+  "position_min_m": -0.0087367448734528,
+  "position_max_m": 0.00846628486975799,
+  "usable_range_m": 0.017203029743210793,
+  "recorded_positions_count": 361,
+  "calibration_complete": true
+}

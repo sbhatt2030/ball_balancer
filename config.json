@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-09-08T12:52:28.717291",
+  "version": "1.0",
+  "beam_length_m": 0.02,
+  "ball_diameter_m": 0.00425,
+  "camera": {
+    "index": 0,
+    "frame_width": 640,
+    "frame_height": 480
+  },
+  "ball_detection": {
+    "lower_hsv": [
+      8,
+      106,
+      154
+    ],
+    "upper_hsv": [
+      24,
+      255,
+      233
+    ],
+    "hsv_samples_collected": 147
+  },
+  "camera_calibration": {
+    "peg_points": [
+      [
+        532,
+        269
+      ],
+      [
+        105,
+        303
+      ]
+    ],
+    "beam_center_px": [
+      318,
+      286
+    ],
+    "beam_vector_px": [
+      -427,
+      34
+    ],
+    "beam_length_px": 428.3514911845178,
+    "pixel_to_meter_ratio": 4.6690627700849416e-05,
+    "ball_pixel_to_meter_ratio": 4.801325549781264e-05,
+    "ball_measurements": [
+      44.29509735107422,
+      44.17896270751953,
+      44.30177307128906
+    ]
+  },
+  "operating_range": {
+    "position_min_m": -0.008617051594115162,
+    "position_max_m": 0.008661082580887,
+    "usable_range_m": 0.017278134175002163,
+    "range_positions": [
+      0.008661082580887,
+      -0.0004511594331404897,
+      -0.008617051594115162
+    ]
+  },
+  "servo": {
+    "port": "COM3",
+    "neutral_angle": 15,
+    "min_angle": 0,
+    "max_angle": 30
+  }
+}
