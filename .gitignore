@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.db
+*.db-shm
+/.vs/ball_balancer/CopilotIndices/17.14.878.3237
+/.vs/ball_balancer/FileContentIndex
+/.vs/slnx.sqlite
